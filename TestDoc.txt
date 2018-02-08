@@ -1,3 +1,5 @@
 DETTE ER MITT TESTDOKUMENT
 
 NYE ENDRINGER
+
+Dette er også en endring
