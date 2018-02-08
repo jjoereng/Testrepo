@@ -12,24 +12,12 @@ Test
 Viktige Spesifikasjoner
 Don't let your memes be dreams.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 DETTE ER MITT TESTDOKUMENT
 har lagt til nye endringer
-=======
 
->>>>>>> 3292287cad56116ed293999e1b146f64da4260c4
-=======
-<<<<<<< HEAD
->>>>>>> 0e55b7b5b71dae7a836d72e5df5a597001ff20f6
+
 
 THE GAME
-=======
-
->>>>>>> f16d024e983a502540df522795108fe9fbd83c01
 
 dslakdlsad
-=======
 
->>>>>>> 59714a36056259aa8e47b878a3f2da63df59d2ed
->>>>>>> a6f0fe163cfbfdb080e3f04bc0f573a7caecfa4f
