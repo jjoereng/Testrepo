@@ -1,3 +1,4 @@
+
 DETTE ER MITT TESTDOKUMENT
 
 NYE ENDRINGER
@@ -31,10 +32,21 @@ Don't let your memes be dreams.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 7a28b434e66cf4ba92266cca18fb710b9237b2cd
 =======
 >>>>>>> 0e55b7b5b71dae7a836d72e5df5a597001ff20f6
 >>>>>>> 2ce7f7b337328785eb297f8e1b7a69bceac40008
 =======
+=======
+DETTE ER MITT TESTDOKUMENT
+har lagt til nye endringer
+
+
+
+THE GAME
+
+dslakdlsad
+>>>>>>> 80a9a0a2f2751a394300415b4a70d8ef9964c54e
 
 >>>>>>> 59714a36056259aa8e47b878a3f2da63df59d2ed
