@@ -1,0 +1,9 @@
+         (__)
+         (oo)                       U
+  /-------\/                    /---V
+ / |     ||                    * |--|                       .
+*  ||----||
+       
+
+Cow at 1 meter.         Cow at 100 meters.        Cow at 10,000 meters.
+
