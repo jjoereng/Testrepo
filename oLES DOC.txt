@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 ﻿
 If you write here you're in trouble
 
@@ -17,7 +15,6 @@ https://youtu.be/gpWSyFz9Cd0
 https://youtu.be/gpWSyFz9Cd0
 
 ﻿If you write here you're in trouble
->>>>>>> f16d024e983a502540df522795108fe9fbd83c01
 
 .
 
@@ -36,9 +33,6 @@ edhjfiåohjåihjiåogfjer9i43j9g0tfjk094gj09erjkgmfrpoedkmg
 
 
 do u kno de wei
-=======
- STOP
->>>>>>> 2ce7f7b337328785eb297f8e1b7a69bceac40008
 
           ⠶⣿⣭⡧⡤⣤⣻⣛⣹⣿⣿⣿⣶⣄
          ⣼⣊⣤⣶⣷⣶⣧⣤⣽⣿⣿⣿⣿⣿⣿⣷
