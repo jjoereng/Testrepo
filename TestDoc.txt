@@ -3,9 +3,16 @@ DETTE ER MITT TESTDOKUMENT
 NYE ENDRINGER
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Dette er også en endring
 =======
 Don't let your memes be dreams.
 >>>>>>> 963849fe9fa5085c3b9829b8ae9cdbbc7aa2b326
 
 Teip
+=======
+
+Viktige Spesifikasjoner
+Don't let your memes be dreams.
+
+>>>>>>> 7a28b434e66cf4ba92266cca18fb710b9237b2cd
