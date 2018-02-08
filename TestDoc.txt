@@ -2,13 +2,21 @@ DETTE ER MITT TESTDOKUMENT
 
 NYE ENDRINGER
 
-<<<<<<< HEAD
+
 Don't let your memes be dreams.
 
 Test
-=======
+
 
 Viktige Spesifikasjoner
 Don't let your memes be dreams.
 
+<<<<<<< HEAD
 >>>>>>> 0e55b7b5b71dae7a836d72e5df5a597001ff20f6
+
+THE GAME
+=======
+
+>>>>>>> f16d024e983a502540df522795108fe9fbd83c01
+
+dslakdlsad
