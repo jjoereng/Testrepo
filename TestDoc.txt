@@ -7,10 +7,14 @@ NYE ENDRINGER
 Don't let your memes be dreams.
 
 Test
-=======
+
 
 Viktige Spesifikasjoner
 Don't let your memes be dreams.
 
+<<<<<<< HEAD
 DETTE ER MITT TESTDOKUMENT
 har lagt til nye endringer
+=======
+
+>>>>>>> 3292287cad56116ed293999e1b146f64da4260c4
