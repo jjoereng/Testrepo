@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 DETTE ER MITT TESTDOKUMENT
 
 NYE ENDRINGER
 
-<<<<<<< HEAD
+
 Don't let your memes be dreams.
 
 Test
@@ -12,7 +12,5 @@ Test
 Viktige Spesifikasjoner
 Don't let your memes be dreams.
 
->>>>>>> 0e55b7b5b71dae7a836d72e5df5a597001ff20f6
-=======
 DETTE ER MITT TESTDOKUMENT
->>>>>>> parent of b8f4e0c... har lagt til nye endringer
+har lagt til nye endringer
